@@ -1,4 +1,4 @@
-# Tiny http-server
+# mongoose-http-server
 Tiny standalone http server, based on https://github.com/cesanta/mongoose. VS2022 project without dependencies.
 
 # Usage
